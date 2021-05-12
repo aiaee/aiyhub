@@ -1,0 +1,3 @@
+Sitemap: https://aiyhub.com/sitemap.xml
+
+User-agent: *
